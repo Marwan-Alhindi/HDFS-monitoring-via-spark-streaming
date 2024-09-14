@@ -1,3 +1,5 @@
+NOTE: The application.jar file is not included here and the program won't run without it.
+
 # Spark Streaming Application for HDFS Monitoring
 
 ## Overview
